@@ -1,0 +1,23 @@
+AABOH — Analysing Algorithmic Behaviour of Optimisation Heuristics
+BBOB 2022 — Black Box Optimization Benchmarking
+BENCH@GECCO2022 — Benchmarking and Reproducibility/Replicability
+DTEO — 5th GECCO Workshop on Decomposition Techniques in Evolutionary Optimization
+EAHPC — Second Workshop on Evolutionary Algorithms in High Performance Computing
+EC + DM — Evolutionary Computation and Decision Making
+ECADA 2022 — 12th Workshop on Evolutionary Computation for the Automated Design of Algorithms
+ECXAI — Evolutionary Computation and Explainable AI
+EGML-EC — Enhancing Generative Machine Learning with Evolutionary Computation
+EQUM — Workshop on Evolutionary Optimization in Uncertainty Quantification Models
+EVORL — Evolutionary Reinforcement Learning Workshop
+EVOSOFT — Evolutionary Computation Software Systems
+GI @ GECCO 2022 — 11th International Workshop on Genetic Improvement
+IAM 2022 — 7th Workshop on Industrial Applications of Metaheuristics (IAM 2022)
+IWLCS 2022 — 25th International Workshop on Learning Classifier Systems
+LAHS — Landscape-Aware Heuristic Search
+LEOL — Large-Scale Evolutionary Optimization and Learning
+NEWK — Neuroevolution at Work
+QD-Benchmarks — Workshop on Quality Diversity Algorithm Benchmarks
+QuantOpt — Quantum Optimization Workshop
+SAEOPT — Workshop on Surrogate-Assisted Evolutionary Optimisation
+SECDEF — Genetic and Evolutionary Computation in Defense, Security, and Risk Management
+SymReg — Symbolic Regression

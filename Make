@@ -1,0 +1,2 @@
+examples.npy:
+    python embed.py examples.txt

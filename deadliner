@@ -1,0 +1,2 @@
+curl https://surfdrive.surf.nl/files/index.php/s/g39MTcozeI2GUGI/download -o examples.npy || make examples.npy
+python conferences.py
