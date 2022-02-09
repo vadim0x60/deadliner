@@ -51,6 +51,8 @@ def url_answers(api_response):
         yield result['link']
 
 def find_date(txt, tol=3):
+    """Find a date online using a text query and return a datetime object"""
+
     api_response = search(txt)
     dates = it.chain(*(re.findall(date_format, answer) for answer in text_answers(api_response, max=tol)))
     try:
@@ -59,6 +61,8 @@ def find_date(txt, tol=3):
         return None
 
 def find_site(txt):
+    """Find a website online using a text query and return an html string"""
+
     api_response = search(txt)
     urls = url_answers(api_response)
     url = next(urls)

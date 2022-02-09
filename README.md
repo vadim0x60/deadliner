@@ -2,7 +2,7 @@
 
 Fetches scientific conference and workshops deadlines from the internet
 
-## Usage
+## Command line usage
 
 To use `deadliner` you need an account with [ValueSERP](https://www.valueserp.com/) and [OpenAI](https://openai.com/api/).
 Sign up if you haven't already and get your API keys.
@@ -28,3 +28,17 @@ Wiki-M3L: Wikipedia and Multimodal & Multilingual Research 2022-04-09 00:00:00
 Workshop on Agent Learning in Open-Endedness 2022-02-25 00:00:00
 1st CSS program 2022-10-09 00:00:00
 ```
+
+## Python library usage
+
+```
+from scrape import find_date
+```
+
+lets you find any date by query string like "The Battle of Hastings" or "ICML 2020 registration deadline" in python's `datetime` format
+
+```
+from conferencer import find_workshops
+```
+
+lets you fetch a list of workshops for a given conference name
