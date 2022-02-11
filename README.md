@@ -1,6 +1,9 @@
 # Deadliner
 
-Fetches scientific conference and workshops deadlines from the internet
+*Problem:* people who're supposed to spend their precious work hours doing AI research spend their time researching conferences and workshops they can submit their papers to.
+*Solution:* a software tool that fetches scientific conference and workshops deadlines from the internet
+
+My first attempt at this was [Conferencer](http://conferencer.surge.sh/), but it intentionally avoided parsing conference websites. However, information about most workshops is only available on conference websites, so, alas, they [demand to be parsed](https://www.google.com/search?q=pain+demands+to+be+felt).
 
 ## Command line usage
 
